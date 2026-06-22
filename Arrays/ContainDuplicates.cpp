@@ -1,3 +1,5 @@
+//LeetCode 217 - Contain Duplicates  
+//easy
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
